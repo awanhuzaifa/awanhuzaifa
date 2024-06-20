@@ -7,9 +7,10 @@ Hi there! 👋 My name is Huzaifa and Enthusiastic 3rd-year Cyber Security stude
 
 ## 👯 Connect with me
 <p>
-    <a href="www.linkedin.com/in/huzaifa-ur-rehman-407423238" target="_blank">
-        <img alt="Linkedin."
-            src="https://img.shields.io/badge/Fiverr-1DBF73.svg?style=for-the-badge&logo=Fiverr&logoColor=white">
+    <a href="https://www.linkedin.com/in/huzaifa-ur-rehman-407423238" target="_blank">
+    <img alt="LinkedIn"
+        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
     </a>
     <a href="https://mail.google.com/mail/u/0/?fs=1&to=huzaifaurrehman.awan@gmail.com&tf=cm" target="_blank">
         <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -133,6 +134,18 @@ Hi there! 👋 My name is Huzaifa and Enthusiastic 3rd-year Cyber Security stude
     <a href="#" target="_blank">
         <img alt="Data Encryption"
             src="https://img.shields.io/badge/Data%20Encryption-9C27B0.svg?style=for-the-badge&logo=Data%20Encryption&logoColor=white">
+    </a>
+    <a href="#" target="_blank">
+        <img alt="Collaboration"
+            src="https://img.shields.io/badge/Collaboration-00BCD4.svg?style=for-the-badge&logo=Collaboration&logoColor=white">
+    </a>
+    <a href="#" target="_blank">
+        <img alt="Teamwork"
+            src="https://img.shields.io/badge/Teamwork-4CAF50.svg?style=for-the-badge&logo=Teamwork&logoColor=white">
+    </a>
+    <a href="#" target="_blank">
+        <img alt="Reporting"
+            src="https://img.shields.io/badge/Reporting-FFEB3B.svg?style=for-the-badge&logo=Reporting&&logoColor=white">
 
 ## 📊 Github Stats
 <p>
